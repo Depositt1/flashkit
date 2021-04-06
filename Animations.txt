@@ -1,0 +1,2 @@
+RunAnimationID(Put in RunScript): "rbxassetid://6314503069" Name it "Animation"
+CrouchID(Put in RunScript): "rbxassetid://6559077760" Name it "Crouch"
