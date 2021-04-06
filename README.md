@@ -10,3 +10,5 @@ Download the Events too: https://www.roblox.com/library/6647226516/Events
 Put them in Replicated Storage, do both Trails and Particles and events, ungroup them after.
 
 Make the game in R6 too.
+
+Or just download the world lol
